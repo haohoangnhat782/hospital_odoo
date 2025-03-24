@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+__pycache__/
+odoo.log
+addons/*/node_modules/
+addons/*/venv/
+.env
